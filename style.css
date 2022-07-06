@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.heading {
+    padding: 100px 25%;
+}
